@@ -1,4 +1,6 @@
-![JRL Logo](http://jimmyloforti.com/_common/images/jrl_logo2.png)
+[<img src="http://jimmyloforti.com/_common/images/jrl_logo2.png">](http://jimmyloforti.com)
+
+[![Jimmy LoForti Portfolio Website](http://jimmyloforti.com/_common/images/jrl_logo2.png)](http://jimmyloforti.com)
 
 ## Application Name: BattleAxe.Dotnetcore3 ##
 
